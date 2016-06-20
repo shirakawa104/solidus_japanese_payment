@@ -1,0 +1,3 @@
+<div class="well clearfix">
+  <p><i><%= Spree.t("collect_delivery_fee_message", fee: Spree::Money.new(payment_method.preferred_amount, currency: payment_method.preferred_currency).to_html) %></i></p>
+</div>

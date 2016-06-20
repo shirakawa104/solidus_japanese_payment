@@ -1,0 +1,4 @@
+ja:
+  spree:
+    collect_delivery_fee_message: "※ お支払い金額は、商品代金・送料と「決済手数料: %{fee}」を合計した金額となります。"
+    collect_delivery_fee: "代引手数料"
